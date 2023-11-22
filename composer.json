@@ -1,5 +1,5 @@
 {
-    "name": "simplesamlphp/simplesamlphp-module-cas",
+    "name": "atticus88/simplesamlphp-module-cas",
     "description": "A module that provides CAS authentication",
     "type": "simplesamlphp-module",
     "keywords": ["simplesamlphp", "cas"],
